@@ -9,8 +9,12 @@
 
 ### Find me here:
 
-[<img align="left" alt="linkedIn" | "LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]
+[<img align="left" alt="LinkedIn" width="22px" src="https://www.svgrepo.com/show/306342/linkedin.svg" />][linkedin]
 
-[<img align="left" alt="twitter" | "Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />][twitter]
+[<img align="left" alt="Twitter" width="22px" src="https://www.svgrepo.com/show/56784/twitter.svg" />][twitter]
 
-[<img align="left" alt="instagram" | "instagram" width="22px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />][instagram]
+[<img align="left" alt="Instagram" width="22px" src="https://www.svgrepo.com/show/85611/instagram.svg" />][instagram]
+
+[linkedin]: https://www.linkedin.com/in/human-caching
+[twitter]: https://twitter.com/BrileyDeveloper
+[instagram]: https://www.instagram.com/human.caching
