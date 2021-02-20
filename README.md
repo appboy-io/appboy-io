@@ -16,5 +16,5 @@
 [<img align="left" alt="Instagram" width="22px" src="https://www.svgrepo.com/show/85611/instagram.svg" />][instagram]
 
 [linkedin]: https://www.linkedin.com/in/human-caching
-[twitter]: https://twitter.com/BrileyDeveloper
+[twitter]: https://twitter.com/human_caching
 [instagram]: https://www.instagram.com/human.caching
