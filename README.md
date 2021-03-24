@@ -17,4 +17,4 @@
 
 [linkedin]: https://www.linkedin.com/in/human-caching
 [twitter]: https://twitter.com/human_caching
-[instagram]: https://www.instagram.com/human.caching
+[instagram]: https://www.instagram.com/appboy.io
