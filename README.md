@@ -1,6 +1,6 @@
-## Welcome, I'm Bryan - Appboy
+## Welcome, I'm Bryan aka Appboy
 
-## NYC Native technologist, Dad, Husband!
+## Technologist, Dad, Husband!
 
 - 📱 I'm currently working on releasing my first mobile app and getting my AWS Certification
 - 🧑‍🔬 Learning Data Science, Flutter, React Native
