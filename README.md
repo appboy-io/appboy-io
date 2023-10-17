@@ -15,6 +15,6 @@
 
 [<img align="left" alt="Instagram" width="22px" src="https://www.svgrepo.com/show/85611/instagram.svg" />][instagram]
 
-[linkedin]: https://www.linkedin.com/in/human-caching
+[linkedin]: https://www.linkedin.com/in/appboy-io/
 [twitter]: https://twitter.com/appboyio
 [instagram]: https://www.instagram.com/appboy.io
